@@ -1,1 +1,1 @@
-![screenshot](movie-recommenderr.png)
+![screenshot](movie-recommender.png)
