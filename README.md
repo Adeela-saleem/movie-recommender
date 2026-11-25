@@ -1,1 +1,1 @@
-![screenshot](diseasePredictor.png)
+![screenshot](movie-recommenderr.png)
