@@ -1,1 +1,1 @@
-![screenshot](diseasePredictor)
+![screenshot](diseasePredictor.png)
